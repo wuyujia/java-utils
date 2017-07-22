@@ -1,4 +1,4 @@
-C]
+[TOC]
 my pool english!!!
 # Introduction
 This is a util of mybatis batch operation,  
